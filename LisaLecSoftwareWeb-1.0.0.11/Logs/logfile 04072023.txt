@@ -1,0 +1,6 @@
+04/07/2023 1:04:58 Metodo: 
+ Parametros: 
+ Codigo Error: 
+ Mensaje: entre
+ StackTrace: 
+----------------------------------

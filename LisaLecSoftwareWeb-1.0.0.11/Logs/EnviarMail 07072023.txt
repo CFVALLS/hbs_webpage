@@ -1,0 +1,10 @@
+07/07/2023 16:25:25 Metodo: 
+ Parametros: 
+ Codigo Error: 
+ Mensaje: El servidor SMTP requiere una conexión segura o el cliente no se autenticó. La respuesta del servidor fue: 5.7.0 Authentication Required. Learn more at
+ StackTrace:    en System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   en System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   en System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   en System.Net.Mail.SmtpClient.Send(MailMessage message)
+   en Controlador.SendMail.EnviarMail(String mailDestinatario, String bodyHtml) en C:\Users\Franco\Documents\LisaLecSoftwareWeb-1.0.0.11\Controlador\SendMail.cs:línea 58
+----------------------------------

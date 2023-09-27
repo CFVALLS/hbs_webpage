@@ -1,0 +1,9 @@
+C:\GitHub\LisaLecSoftwareWeb\Controlador\bin\Release\Controlador.dll
+C:\GitHub\LisaLecSoftwareWeb\Controlador\bin\Release\Controlador.pdb
+C:\GitHub\LisaLecSoftwareWeb\Controlador\bin\Release\Model.dll
+C:\GitHub\LisaLecSoftwareWeb\Controlador\bin\Release\Model.pdb
+C:\GitHub\LisaLecSoftwareWeb\Controlador\obj\Release\Controlador.csproj.AssemblyReference.cache
+C:\GitHub\LisaLecSoftwareWeb\Controlador\obj\Release\Controlador.csproj.CoreCompileInputs.cache
+C:\GitHub\LisaLecSoftwareWeb\Controlador\obj\Release\Controlador.csproj.CopyComplete
+C:\GitHub\LisaLecSoftwareWeb\Controlador\obj\Release\Controlador.dll
+C:\GitHub\LisaLecSoftwareWeb\Controlador\obj\Release\Controlador.pdb

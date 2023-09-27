@@ -1,0 +1,41 @@
+<html>
+
+<head>
+</head>
+
+<body>
+
+<div style="position: absolute;
+    width: 1000px;
+    margin-left: 100px;
+    margin-top: 50px;
+    background-color: aliceblue;
+    padding: 20px;">
+
+<p>Buen d&iacute;a $nombre$,</p>
+
+<p>A continuaci&oacute;n el detalle de los eventos registrados el d&iacute;a $dia$:</p>
+<table style="    position: relative;
+    width: 900px;
+	margin-left: 50px;">
+	<tr style="color:white;background-color:green;">
+		<td width="150px">Fecha</td>
+		<td width="100px">Zona</td>
+		<td width="100px">Centro</td>
+		<td width="150px">M&aacute;quina</td>
+		<td width="100px">Tipo</td>
+		<td width="300px">Descripci&oacute;n</td>
+	<tr>
+	$REGISTROS$	
+</table>
+<br>
+<div style="margin-top: 10px;">
+<p>Este reporte fue enviado de manera autom&aacute;tica por favor no responder.</p>
+</div>
+<img src="http://190.114.255.156/img/logo.jpg" width="100px" style="position: relative;
+    margin-left: 400px;"/>
+</div>
+
+</body>
+
+</html>

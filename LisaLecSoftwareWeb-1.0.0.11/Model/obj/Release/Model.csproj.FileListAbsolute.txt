@@ -1,0 +1,6 @@
+C:\GitHub\LisaLecSoftwareWeb\Model\bin\Release\Model.dll
+C:\GitHub\LisaLecSoftwareWeb\Model\bin\Release\Model.pdb
+C:\GitHub\LisaLecSoftwareWeb\Model\obj\Release\Model.csproj.AssemblyReference.cache
+C:\GitHub\LisaLecSoftwareWeb\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+C:\GitHub\LisaLecSoftwareWeb\Model\obj\Release\Model.dll
+C:\GitHub\LisaLecSoftwareWeb\Model\obj\Release\Model.pdb
